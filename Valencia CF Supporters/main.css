@@ -1,5 +1,4 @@
-<style type="text/css">
-.ui-page {
-    background: transparent url(valencia.jpg);
+#content-imagenmal {
+    background-image: url(Imagenes/valencia.jpg);
+    background-size:cover;  
 }
-    </style>
